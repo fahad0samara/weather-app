@@ -6,3 +6,10 @@
 //
 
 import Foundation
+// Model
+struct WeatherData: Identifiable {
+    let id = UUID()
+    let dayOfWeek: String
+    let imageName: String
+    let temperature: Int
+}
