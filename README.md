@@ -13,6 +13,7 @@ WeatherApp is a simple iOS application that provides accurate weather forecasts 
 - **Customizable Styling**: Easily customize the app's appearance and themes.
 
 ## Screenshots
+![Simulator Screen Recording - iPhone 15 Pro - 2024-02-10 at 18 41 27](https://github.com/fahad0samara/weather-app/assets/90055525/2fec8e39-18ad-436d-ab23-ea2aa1a85a5b)
 
 
 ## Requirements
